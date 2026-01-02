@@ -11,6 +11,6 @@ public class NewMonoBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        //‚±‚±‚ğ•ÏX‚µ‚Ä‚İ‚Ü‚µ‚½B
     }
 }
